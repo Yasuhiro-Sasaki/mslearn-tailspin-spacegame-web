@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/Tailspin20201008/SpaceGameDelivalyPlan20201012-2/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin20201008/SpaceGameDelivalyPlan20201012-2/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
